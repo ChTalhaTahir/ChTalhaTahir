@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/muhammad-talha-tahir-30968b248" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:chaudharytalhatahir@gmail.com" target="_blank">
+  <a href="chaudharytalhatahir@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -43,9 +43,6 @@
 <div align="center">
   <a href="https://apps.apple.com/pk/app/omniya-collection-system/id1673761983" target="_blank">
     <img src="https://img.shields.io/static/v1?message=App%20Store&logo=apple&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="app store logo"  />
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.line.omnyia" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Google%20Play&logo=google-play&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="google play logo"  />
   </a>
 </div>
 
@@ -106,3 +103,4 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=chTalhaTahir&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
