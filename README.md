@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -29,47 +29,7 @@
 
 ###
 
-<p align="left">I'm Talha Tahir from Pakistan, a seasoned Software Engineer 👨‍🎓 with 8+ years of experience. My skills encompass:<br><br>💻 Hybrid mobile app development using Flutter<br>📱 Android app development with Java<br>📱 iOS app development with Swift<br>🔧 Backend development: PHP, MySQL, Firebase, Firestore, Realtime Database<br>📊 Google Play and AppStore app publishing<br>🌐 Web Development: WordPress, HTML, CSS, Plugin integration<br>🤖 Machine Learning Specialist: Social Network Analysis, Python, Statistical Analysis<br>📦 Amazon FBA Specialist<br>🎯 Lead Generation and Data Entry Specialist: Data Mining, Email List Building, Web Research.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=chTalhaTahir&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p align="left">I'm Talha Tahir, a seasoned Software Engineer from Pakistan with almost 6 years of experience. My expertise includes:<br><br>💻 Flutter, Dart, and cross-platform development<br>📱 Android/iOS app development<br>🔧 API Integration, Payment Integration<br>🎨 UI/UX Design<br>🧪 Testing (Unit, Widget, Integration)<br>💾 Database Management (SQL)<br>🔗 Version Control (Git)<br>🚀 CI/CD, Agile Methodologies<br>📊 Google Maps, Firebase<br>🔄 State Management (Bloc, Provider)<br>🔥 Problem Solving Skills</p>
 
 ###
 
@@ -101,3 +61,30 @@
     <img src="https://img.shields.io/static/v1?message=App%20Store&logo=apple&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="app store logo"  />
   </a>
 </div>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <!-- Add other icons as needed -->
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=chTalhaTahir&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+
