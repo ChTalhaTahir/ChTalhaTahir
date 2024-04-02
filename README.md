@@ -73,6 +73,10 @@
 
 ###
 
+### Below are some of the projects I've worked on:
+
+###
+
 ### Omniya Collection System
 <div align="center">
   <a href="https://apps.apple.com/pk/app/omniya-collection-system/id1673761983" target="_blank">
