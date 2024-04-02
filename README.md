@@ -72,3 +72,28 @@
 </div>
 
 ###
+
+### Omniya Collection System
+<div align="center">
+  <a href="https://apps.apple.com/pk/app/omniya-collection-system/id1673761983" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=App%20Store&logo=apple&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="app store logo"  />
+  </a>
+</div>
+
+###
+
+### Omniya Driver
+<div align="center">
+  <a href="https://apps.apple.com/us/app/omniya-driver/id6462425687" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=App%20Store&logo=apple&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="app store logo"  />
+  </a>
+</div>
+
+###
+
+### Beautyfully
+<div align="center">
+  <a href="https://apps.apple.com/pk/app/beautyfully/id1672034258" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=App%20Store&logo=apple&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="app store logo"  />
+  </a>
+</div>
