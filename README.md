@@ -25,11 +25,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Talha Tahir, a seasoned Software Engineer with 6 years of experience in Mobile Application Development. My expertise includes:<br><br>💻 Flutter, Dart, and cross-platform development<br>📱 Android/iOS app development<br>🔧 API Integration, Payment Integration<br>🎨 UI/UX Design<br>🧪 Testing (Unit, Widget, Integration)<br>💾 Database Management (SQL)<br>🔗 Version Control (Git)<br>🚀 CI/CD, Agile Methodologies<br>📊 Google Maps, Firebase<br>🔄 State Management (Bloc, Provider)<br>🔥 Problem Solving Skills</p>
+<p align="left">Welcome to my GitHub Profile!</p>
 
 ###
 
