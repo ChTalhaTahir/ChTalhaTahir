@@ -75,6 +75,26 @@
 
 ###
 
+### The Dividend Tracker
+<div align="center">
+  <a href="https://apps.apple.com/pk/app/the-dividend-tracker/id6443490767" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=App%20Store&logo=apple&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="app store logo"  />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.thedividendtracker.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Google%20Play&logo=google-play&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="google play logo"  />
+  </a>
+</div>
+
+###
+
+
+### CAS ELMS
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=pk.org.cas.ELMS" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Google%20Play&logo=google-play&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="google play logo"  />
+  </a>
+</div>
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
