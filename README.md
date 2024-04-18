@@ -44,6 +44,9 @@
   <a href="https://apps.apple.com/pk/app/omniya-collection-system/id1673761983" target="_blank">
     <img src="https://img.shields.io/static/v1?message=App%20Store&logo=apple&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="app store logo"  />
   </a>
+  <a href="https://play.google.com/store/apps/details?id=com.line.omnyia" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Google%20Play&logo=google-play&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="google play logo"  />
+  </a>
 </div>
 
 ###
@@ -53,6 +56,9 @@
   <a href="https://apps.apple.com/us/app/omniya-driver/id6462425687" target="_blank">
     <img src="https://img.shields.io/static/v1?message=App%20Store&logo=apple&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="app store logo"  />
   </a>
+  <a href="https://play.google.com/store/apps/details?id=com.line.omnyiadriver" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Google%20Play&logo=google-play&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="google play logo"  />
+  </a>
 </div>
 
 ###
@@ -61,6 +67,9 @@
 <div align="center">
   <a href="https://apps.apple.com/pk/app/beautyfully/id1672034258" target="_blank">
     <img src="https://img.shields.io/static/v1?message=App%20Store&logo=apple&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="app store logo"  />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.line.android.beautyfully" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Google%20Play&logo=google-play&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="google play logo"  />
   </a>
 </div>
 
