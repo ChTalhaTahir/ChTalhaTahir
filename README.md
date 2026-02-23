@@ -23,6 +23,17 @@
 
 Below are some of the projects I've worked on:
 
+###
+
+### TRN
+<div align="center">
+  <a href="https://apps.apple.com/pk/app/trn-app/id6443707193" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=App%20Store&logo=apple&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="app store logo"  />
+  </a>
+</div>
+
+###
+
 
 ###
 
